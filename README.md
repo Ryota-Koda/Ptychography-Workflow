@@ -8,10 +8,10 @@ Compared to reconstruction using ePIE alone, our workflow achieves up to a 2.72Ã
 
 
 ## Detailed workflow of the proposed method
+![Workflow Overview](workflow.png)
 
 
-
-## REFERENCES
+## References
 [1] Mathew J Cherukara, Tao Zhou, Youssef Nashed, Pablo Enfedaque, Alex Hexemer, Ross J Harder, and Martin V Holt. AI-enabled high-resolution scanning coherent diffraction imaging. Applied Physics Letters, 117(4), 2020.
 
 [2] Yudong Yao, Henry Chan, Subramanian Sankaranarayanan, Prasanna Balaprakash, Ross J Harder, and Mathew J Cherukara. AutoPhaseNN: unsupervised physics-aware deep learning of 3D nanoscale Bragg coher ent diffraction imaging. npj Computational Materials, 8(1):124, 2022.
